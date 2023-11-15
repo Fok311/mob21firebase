@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291643184803",
+    "project_id": "mob21-76939",
+    "storage_bucket": "mob21-76939.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291643184803:android:d37b7d014dc5876c055116",
+        "android_client_info": {
+          "package_name": "com.fok.mob21firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJl0GgVQR9RYUk5nSByRdRPghWiPh6y3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
